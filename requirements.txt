@@ -1,0 +1,12 @@
+ultralytics
+easyocr
+opencv-python
+langchain-core
+langchain-groq
+pydantic
+weasyprint
+jinja2
+python-dotenv
+streamlit
+Pillow
+numpy
